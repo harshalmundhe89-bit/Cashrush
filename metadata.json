@@ -1,0 +1,6 @@
+{
+  "name": "CashRush",
+  "description": "Engage in fun mini-games to earn points and redeem real cash once you reach the $100 withdrawal threshold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
